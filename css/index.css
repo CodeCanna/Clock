@@ -1,0 +1,12 @@
+body{
+    background: gray;
+}
+
+#container {
+    vertical-align: middle;
+	text-align: center;
+}
+
+#canvas {
+	background: lightgray;
+}
